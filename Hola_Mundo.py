@@ -1,1 +1,1 @@
-print ( "Hello World" )
+print ( "Todat's lesson is turkey" )
