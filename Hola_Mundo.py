@@ -1,1 +1,2 @@
-print ( "Todat's lesson is turkey" )
+L = input("What's your name mamacita")
+print ("Hello", L)
